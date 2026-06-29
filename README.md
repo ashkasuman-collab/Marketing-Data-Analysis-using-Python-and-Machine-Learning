@@ -14,7 +14,6 @@ This project analyzes marketing campaign performance using Python and Machine Le
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-learn
 - Google Colab
 
 ## Dataset
